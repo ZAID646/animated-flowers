@@ -1,5 +1,3 @@
-Certainly! Here's a standard README template for your GitHub repository. This example assumes your project involves animation and styling of flowers, and it's structured to provide a clear overview, installation instructions, and usage details.
-
 ---
 
 # Flowers Animation
