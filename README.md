@@ -76,10 +76,4 @@ Contributions are welcome! If you have suggestions or improvements, please fork 
 
    Submit a pull request on GitHub describing your changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
-
-Feel free to adjust the content as needed to better fit your project details or specific requirements.
